@@ -8,3 +8,5 @@
     % Main Column Stage 14 Pressure **VS** Connect Stream S2 Flowrate
 ## Single-Tower-Experiment
 1. SingleColumn % Single Column Experiment
+## Python Code for finding atrribute and objects
+1. S02.py % python script for finding attribute and objects
